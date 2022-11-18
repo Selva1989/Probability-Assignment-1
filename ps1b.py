@@ -1,7 +1,7 @@
 ###########################
 # 6.0002 Problem Set 1b: Space Change
 # Name: Selva Muthumalaiyappan
-# Author: charz, cdenise
+#
 
 #================================
 # Part B: Golden Eggs
